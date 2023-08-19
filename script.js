@@ -6,3 +6,4 @@ function updateEqualizer(amplitude) {
   equalizerBars.forEach((bar, index) => {
     bar.style.height = `${scaledAmplitude - index * 20}px`; // Decrease bar height for a cascading effect
   });
+}
