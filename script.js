@@ -10,3 +10,4 @@ function updateEqualizer(amplitude) {
 
 // Simulate voice input and update the equalizer
 function simulateVoiceInput() {
+  const maxAmplitude = 0.5; // Adjust this value based on the input sensitivity
