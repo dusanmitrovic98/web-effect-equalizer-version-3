@@ -15,3 +15,4 @@ function simulateVoiceInput() {
   updateEqualizer(randomAmplitude);
 }
 
+// Simulate voice input every 2 seconds
