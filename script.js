@@ -17,3 +17,4 @@ function simulateVoiceInput() {
 
 // Simulate voice input every 2 seconds
 setInterval(simulateVoiceInput, 2000);
+
