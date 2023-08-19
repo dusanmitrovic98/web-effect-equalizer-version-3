@@ -25,3 +25,4 @@ body {
 
 @keyframes bounce {
     0%, 100% {
+        height: 40px;
