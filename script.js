@@ -7,3 +7,4 @@ function updateEqualizer(amplitude) {
     bar.style.height = `${scaledAmplitude - index * 20}px`; // Decrease bar height for a cascading effect
   });
 }
+
