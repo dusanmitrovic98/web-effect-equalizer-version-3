@@ -9,3 +9,4 @@ function updateEqualizer(amplitude) {
 }
 
 // Simulate voice input and update the equalizer
+function simulateVoiceInput() {
