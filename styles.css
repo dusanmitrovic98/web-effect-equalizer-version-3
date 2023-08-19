@@ -10,3 +10,4 @@ body {
 .equalizer {
     display: flex;
     align-items: flex-end;
+    width: 300px;
