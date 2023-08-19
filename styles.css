@@ -12,3 +12,4 @@ body {
     align-items: flex-end;
     width: 300px;
     height: 200px;
+    justify-content: space-between;
