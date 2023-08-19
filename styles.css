@@ -19,3 +19,4 @@ body {
     width: 20px;
     background-color: #00FFFF;
     border-radius: 10px 10px 0 0;
+    animation: bounce 0.3s alternate infinite;
