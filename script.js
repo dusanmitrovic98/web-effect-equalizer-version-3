@@ -14,3 +14,4 @@ function simulateVoiceInput() {
   const randomAmplitude = Math.random() * maxAmplitude;
   updateEqualizer(randomAmplitude);
 }
+
