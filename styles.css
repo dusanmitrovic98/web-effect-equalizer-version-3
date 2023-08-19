@@ -9,3 +9,4 @@ body {
 
 .equalizer {
     display: flex;
+    align-items: flex-end;
